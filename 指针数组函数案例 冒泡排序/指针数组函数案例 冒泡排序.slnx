@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="指针数组函数案例 冒泡排序.vcxproj" Id="9d06625b-1af8-4692-aa2e-d36923baef58" />
+</Solution>

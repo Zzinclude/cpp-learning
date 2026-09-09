@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="案例：乘法表.vcxproj" Id="bd35fb88-df45-4d9a-9aa4-3c33c9fc17d9" />
+</Solution>

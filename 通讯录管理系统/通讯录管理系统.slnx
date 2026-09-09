@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="通讯录管理系统.vcxproj" Id="d8303475-bafd-4d29-98d2-85c2e3369386" />
+</Solution>
