@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="封装-案例：长方体类.vcxproj" Id="a67ff894-51b2-44f7-a0c1-aa510d5eb162" />
+  <Project Path="构造函数和析构函数.vcxproj" />
 </Solution>
