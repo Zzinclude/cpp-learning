@@ -18,6 +18,9 @@ public:
 		cout << "person的拷贝构造函数的调用" << endl;
 		age = p.age;
 	}
+	~person() {
+		cout << "person的默认析构函数的调用" << endl;
+	}
 	int age;
 };
 //调用
@@ -33,7 +36,7 @@ void test01() {
 	person p5 = person(p4);//调用拷贝构造函数
 	person(10);//匿名对象 执行结束后（下一行），系统立即回收掉匿名对象
 	//不要利用拷贝构造函数，初始化匿名对象
-	person (p4);//等价于person p4(重定义了)
+	//person (p4);//等价于person p4(重定义了)
 	//3.隐式转换法
 	person p6 = 10;//相当于显示法中调用有参函数
 	person p7 = p6;//调用拷贝构造函数
