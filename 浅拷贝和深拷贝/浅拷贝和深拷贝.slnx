@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="浅拷贝和深拷贝.vcxproj" />
+  <Project Path="浅拷贝和深拷贝.vcxproj" Id="4b22a5af-fb65-417c-93a2-b6303491b407" />
 </Solution>

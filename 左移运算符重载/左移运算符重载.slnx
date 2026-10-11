@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="左移运算符重载.vcxproj" />
+  <Project Path="左移运算符重载.vcxproj" Id="4d3f8bb9-b47d-424f-9a56-1e17931643d3" />
 </Solution>
